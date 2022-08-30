@@ -7,5 +7,3 @@ Rapporten finner du [her.](https://github.com/MathiasGretland/Soleklart/blob/mas
 For at applikasjonen skal fungere som intensjonelt så er man nødt til å legge til en aktiv Google Maps API nøkkel, hvordan man får tak i en slik står dokumentert på i AndroidManifest.xml
 
 Du kommer dit ved å gå til app > manifests > AndroidManifest.xml
-
-NB! Dette er ikke det opprinnelige repositoriet som applikasjonen ble utviklet i.
